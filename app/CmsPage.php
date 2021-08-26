@@ -32,7 +32,7 @@ class CmsPage extends Model
     ];
 
     /**
-     * The categories that belong to the banner.
+     * The categories that belong to the bannerdsdfdf.
      */
     public function categories()
     {
