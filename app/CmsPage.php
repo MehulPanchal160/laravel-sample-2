@@ -10,12 +10,12 @@ class CmsPage extends Model
     /**
      * Indicates if the model should be timestamped.
      *
-     * @var bool
+     * @var bool    
      */
     public $timestamps = false;
 
     /**
-     * The attributes that are mass assignable. dddd         
+     * The attributes that are mass assignable. dddd              
      *
      * @var array
      */
