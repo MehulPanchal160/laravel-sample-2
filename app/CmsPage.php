@@ -15,7 +15,7 @@ class CmsPage extends Model
     public $timestamps = false;
 
     /**
-     * The attributes that are mass assignable. dddd              
+     * The attributes that are mass assignable. branch-1              
      *
      * @var array
      */
