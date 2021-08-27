@@ -30,7 +30,7 @@ class Banner extends Model {
     ];
 
     /**
-     * The categories that belong to the banner.
+     * The categories that belong to the bannerr.
      */
     public function categories() {
         return $this->belongsTo('App\BannerCategory', 'banner_category_id');
